@@ -24,12 +24,12 @@ body {
 
 @font-face {
     font-family: Raleway;
-    src: url(fonts/raleway/Raleway-Regular.ttf);
+    src: url(../fonts/raleway/Raleway-Regular.ttf);
 }
 
 @font-face {
     font-family: Raleway-Bold;
-    src: url(fonts/raleway/Raleway-Bold.ttf);
+    src: url(../fonts/raleway/Raleway-Bold.ttf);
 }
 
 .container .row h1 {
